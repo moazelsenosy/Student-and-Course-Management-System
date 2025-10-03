@@ -1,0 +1,32 @@
+[
+   {
+      "course_name": "python",
+      "course_code": "cet111",
+      "course_credit_hours": 2.5,
+      "course_credit_hours_price": 3200.0
+   },
+   {
+      "course_name": "law",
+      "course_code": "cet-200",
+      "course_credit_hours": 2.0,
+      "course_credit_hours_price": 3200.0
+   },
+   {
+      "course_name": "english",
+      "course_code": "eng-1",
+      "course_credit_hours": 4.0,
+      "course_credit_hours_price": 2000.0
+   },
+   {
+      "course_name": "math",
+      "course_code": "cet-100",
+      "course_credit_hours": 4.0,
+      "course_credit_hours_price": 2000.0
+   },
+   {
+      "course_name": "french",
+      "course_code": "fre111",
+      "course_credit_hours": 3.0,
+      "course_credit_hours_price": 3200.0
+   }
+]

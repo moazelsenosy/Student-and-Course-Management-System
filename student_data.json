@@ -1,0 +1,38 @@
+[
+   {
+      "student_name": "ahmed",
+      "student_id": "1",
+      "student_grade": 2.8,
+      "enrolled_course": "math"
+   },
+   {
+      "student_name": "youssef",
+      "student_id": "14",
+      "student_grade": 2.0,
+      "enrolled_course": "math"
+   },
+   {
+      "student_name": "moaz",
+      "student_id": "12",
+      "student_grade": 4.0,
+      "enrolled_course": "math"
+   },
+   {
+      "student_name": "basma",
+      "student_id": "24010",
+      "student_grade": 4.0,
+      "enrolled_course": "math"
+   },
+   {
+      "student_name": "moaz",
+      "student_id": "240102365",
+      "student_grade": 3.6,
+      "enrolled_course": "python"
+   },
+   {
+      "student_name": "Wezza",
+      "student_id": "240102365",
+      "student_gpa": 3.9,
+      "enrolled_course_name": "french"
+   }
+]
